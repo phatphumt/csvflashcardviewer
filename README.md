@@ -1,5 +1,7 @@
 # CSV Flashcard Viewer
 
+แฟลชการ์ดทบทวนจากไฟล์ CSV ของตัวเอง (รูปแบบ `Front,Back,Tags`) — เปิด `index.html` หรือเข้า GitHub Pages แล้วอัปโหลดไฟล์เพื่อเริ่มทบทวน
+
 แฟลชการ์ดทบทวนธาตุเรพรีเซนเททีฟ (Representative Elements) — เปิด `index.html` หรือเข้า GitHub Pages แล้วอัปโหลดไฟล์ CSV รูปแบบ `Front,Back,Tags` เพื่อเริ่มทบทวน
 
 - ทำงานออฟไลน์ได้ (PWA) หลังเปิดครั้งแรก

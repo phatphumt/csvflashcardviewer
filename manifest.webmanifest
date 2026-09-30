@@ -1,7 +1,7 @@
 {
-  "name": "Flashcard Viewer - Representative Elements",
-  "short_name": "Flashcards",
-  "description": "ทบทวนธาตุเรพรีเซนเททีฟด้วยแฟลชการ์ด รองรับไฟล์ CSV ของตัวเอง ทำงานออฟไลน์ได้",
+  "name": "CSV Flashcard Viewer",
+  "short_name": "CSV Flashcards",
+  "description": "ทบทวนด้วยแฟลชการ์ดจากไฟล์ CSV ของตัวเอง ทำงานออฟไลน์ได้",
   "id": "./",
   "start_url": "./",
   "scope": "./",
